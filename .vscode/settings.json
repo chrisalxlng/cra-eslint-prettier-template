@@ -15,5 +15,6 @@
   "eslint.alwaysShowStatus": true,
   "prettier.singleQuote": true,
   "prettier.jsxSingleQuote": true,
-  "prettier.tabWidth": 2
+  "prettier.tabWidth": 2,
+  "editor.tabSize": 2
 }
