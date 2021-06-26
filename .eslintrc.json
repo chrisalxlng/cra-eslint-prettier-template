@@ -16,5 +16,10 @@
     "sourceType": "module"
   },
   "plugins": ["react"],
-  "rules": {}
+  "rules": {
+    "prettier/prettier": [
+      "error",
+      { "tabWidth": 2, "singleQuote": true, "jsxSingleQuote": true }
+    ]
+  }
 }
