@@ -1,9 +1,7 @@
 ### Getting started
 
-1. Fork this repository.
-2. Rename the `name` property in `package.json` to the name of your new repository.
-3. Run `npm i` in your working directory.
-4. You're good to go! Run `npm start` to start your React app! Happy coding!
+1. Click `Use this template` button at the top of this repository.
+2. You're good to go!
 
 ------------
 
